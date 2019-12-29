@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue]canales tdt[/COLOR]</title>
-<thumbnail>a</thumbnail>
+<title>[COLOR blue]Musica Rock Español[/COLOR]</title>
+<thumbnail>https://drive.google.com/open?id=1vXZ5HFummBfvrHgsuf6xE8ws0pFrEz76</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/anubis261/Anubis/master/test1.xml</externallink>
 </item>
 
-<item>
-<title>cocina 2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/anubis261/Anubis/master/test2.xml</externallink>
-</item>
